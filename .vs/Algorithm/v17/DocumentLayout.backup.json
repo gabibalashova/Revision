@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GABI\\Visual studio\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9BCEF5-87B0-4B4C-8673-EE615F67200D}|Name\\Name.csproj|f:\\gabi\\visual studio\\algorithm\\name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9BCEF5-87B0-4B4C-8673-EE615F67200D}|Name\\Name.csproj|solutionrelative:name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ED2729-A969-4F40-828D-BE40BE848ECB}|InchToSat\\InchToSat.csproj|f:\\gabi\\visual studio\\algorithm\\inchtosat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ED2729-A969-4F40-828D-BE40BE848ECB}|InchToSat\\InchToSat.csproj|solutionrelative:inchtosat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF938D6-6AE4-4795-A560-449DE78489FA}|Degrees\\Degrees.csproj|f:\\gabi\\visual studio\\algorithm\\degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF938D6-6AE4-4795-A560-449DE78489FA}|Degrees\\Degrees.csproj|solutionrelative:degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0304720C-3B79-40EA-8FEC-9FBF2364D9AC}|ConverterUSDtoBGN\\ConverterUSDtoBGN.csproj|f:\\gabi\\visual studio\\algorithm\\converterusdtobgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0304720C-3B79-40EA-8FEC-9FBF2364D9AC}|ConverterUSDtoBGN\\ConverterUSDtoBGN.csproj|solutionrelative:converterusdtobgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BD24AE-D2F8-4758-9812-77B2B9C5AF09}|Celsius\\Celsius.csproj|f:\\gabi\\visual studio\\algorithm\\celsius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BD24AE-D2F8-4758-9812-77B2B9C5AF09}|Celsius\\Celsius.csproj|solutionrelative:celsius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCC5183-B9B6-442D-B737-D79013719DCF}|RectangleLice\\RectangleLice.csproj|f:\\gabi\\visual studio\\algorithm\\rectanglelice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCC5183-B9B6-442D-B737-D79013719DCF}|RectangleLice\\RectangleLice.csproj|solutionrelative:rectanglelice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFC1E2-31DC-4887-889A-51F9AFCBFE02}|Targ\\Targ.csproj|f:\\gabi\\visual studio\\algorithm\\targ\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFC1E2-31DC-4887-889A-51F9AFCBFE02}|Targ\\Targ.csproj|solutionrelative:targ\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GABI\\Visual studio\\Algorithm\\Celsius\\Program.cs",
+              "RelativeDocumentMoniker": "Celsius\\Program.cs",
+              "ToolTip": "F:\\GABI\\Visual studio\\Algorithm\\Celsius\\Program.cs",
+              "RelativeToolTip": "Celsius\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:35:53.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GABI\\Visual studio\\Algorithm\\Degrees\\Program.cs",
+              "RelativeDocumentMoniker": "Degrees\\Program.cs",
+              "ToolTip": "F:\\GABI\\Visual studio\\Algorithm\\Degrees\\Program.cs",
+              "RelativeToolTip": "Degrees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:35:01.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GABI\\Visual studio\\Algorithm\\ConverterUSDtoBGN\\Program.cs",
+              "RelativeDocumentMoniker": "ConverterUSDtoBGN\\Program.cs",
+              "ToolTip": "F:\\GABI\\Visual studio\\Algorithm\\ConverterUSDtoBGN\\Program.cs",
+              "RelativeToolTip": "ConverterUSDtoBGN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:33:37.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GABI\\Visual studio\\Algorithm\\Name\\Program.cs",
+              "RelativeDocumentMoniker": "Name\\Program.cs",
+              "ToolTip": "F:\\GABI\\Visual studio\\Algorithm\\Name\\Program.cs",
+              "RelativeToolTip": "Name\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:30:07.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GABI\\Visual studio\\Algorithm\\InchToSat\\Program.cs",
+              "RelativeDocumentMoniker": "InchToSat\\Program.cs",
+              "ToolTip": "F:\\GABI\\Visual studio\\Algorithm\\InchToSat\\Program.cs",
+              "RelativeToolTip": "InchToSat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:27:46.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GABI\\Visual studio\\Algorithm\\RectangleLice\\Program.cs",
+              "RelativeDocumentMoniker": "RectangleLice\\Program.cs",
+              "ToolTip": "F:\\GABI\\Visual studio\\Algorithm\\RectangleLice\\Program.cs",
+              "RelativeToolTip": "RectangleLice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:25:39.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GABI\\Visual studio\\Algorithm\\Targ\\Program.cs",
+              "RelativeDocumentMoniker": "Targ\\Program.cs",
+              "ToolTip": "F:\\GABI\\Visual studio\\Algorithm\\Targ\\Program.cs",
+              "RelativeToolTip": "Targ\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:23:01.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
